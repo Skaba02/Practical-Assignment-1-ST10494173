@@ -1,0 +1,6 @@
+com\mycompany\studentgrades\StudentGrades.class
+StudentManagerTest.class
+za\ac\app\model\Student.class
+za\ac\app\ui\App.class
+za\ac\app\model\Person.class
+za\ac\app\service\StudentManager.class
